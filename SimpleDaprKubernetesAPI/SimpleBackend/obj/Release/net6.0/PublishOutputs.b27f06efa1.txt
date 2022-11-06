@@ -1,0 +1,11 @@
+C:\Users\kiyot\AppData\Local\Temp\jpnl3dao.rka\SimpleBackend.exe
+C:\Users\kiyot\AppData\Local\Temp\jpnl3dao.rka\appsettings.Development.json
+C:\Users\kiyot\AppData\Local\Temp\jpnl3dao.rka\appsettings.json
+C:\Users\kiyot\AppData\Local\Temp\jpnl3dao.rka\SimpleBackend.dll
+C:\Users\kiyot\AppData\Local\Temp\jpnl3dao.rka\SimpleBackend.deps.json
+C:\Users\kiyot\AppData\Local\Temp\jpnl3dao.rka\SimpleBackend.runtimeconfig.json
+C:\Users\kiyot\AppData\Local\Temp\jpnl3dao.rka\SimpleBackend.pdb
+C:\Users\kiyot\AppData\Local\Temp\jpnl3dao.rka\Microsoft.OpenApi.dll
+C:\Users\kiyot\AppData\Local\Temp\jpnl3dao.rka\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kiyot\AppData\Local\Temp\jpnl3dao.rka\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kiyot\AppData\Local\Temp\jpnl3dao.rka\Swashbuckle.AspNetCore.SwaggerUI.dll

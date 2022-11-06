@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "G6a3Emp3mdULN8aqcCERQi8Lqe1h4K+VHFFwlIxBdYo2QOktsuMJSYbzSMykVXCts2VnydzM4rtpuWxirL1r0g==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\GitHub\\kiyo7447\\Microservice\\SimpleDaprKubernetesAPI\\SimpleBackend\\SimpleBackend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kiyot\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\kiyot\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\kiyot\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\kiyot\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\kiyot\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\kiyot\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

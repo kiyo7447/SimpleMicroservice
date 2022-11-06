@@ -1,0 +1,21 @@
+AssemblyInformationalVersion:
+InformationalVersion: 1.0.0
+Version: 1.0.0
+TargetFrameworks:
+RunCommand: C:\dev\GitHub\kiyo7447\Microservice\SimpleBackend\bin\Debug\net6.0\SimpleBackend.exe
+RunArguments:
+TargetPath: C:\dev\GitHub\kiyo7447\Microservice\SimpleBackend\bin\Debug\net6.0\SimpleBackend.dll
+PublishDir: bin\Debug\net6.0\publish\
+AssemblyName: SimpleBackend
+IntermediateOutputPath: obj\Debug\net6.0\
+TargetFramework: net6.0
+_ShortFrameworkIdentifier:
+_ShortFrameworkVersion:
+_TargetFrameworkVersionWithoutV: 6.0
+FrameworkReference: Microsoft.NETCore.App;Microsoft.AspNetCore.App
+ContainerBaseImage:
+ContainerBaseTag:
+MicrosoftNETPlatformLibrary:
+_AspNetCoreAppSharedFxIsEnabled:
+UsingMicrosoftNETSdkWeb: true
+AzureFunctionsVersion:

@@ -1,0 +1,23 @@
+# tye application configuration file
+# read all about it at https://github.com/dotnet/tye
+#
+# when you've given us a try, we'd love to know what you think:
+#    https://aka.ms/AA7q20u
+#
+name: microservice
+extensions:
+- name: dapr
+  # log-level: debug
+  # components-path: "./components/"
+services:
+- name: simplefrontend
+  project: SimpleFrontend/SimpleFrontend.csproj
+  bindings:
+    - port: 5005
+      protocol: http
+- name: simplebackend
+  project: SimpleBackend/SimpleBackend.csproj
+  bindings:
+    - port: 5000
+      protocol: http
+

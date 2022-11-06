@@ -1,0 +1,11 @@
+C:\Users\kiyot\AppData\Local\Temp\xc1fzi0t.zua\SimpleBackend.exe
+C:\Users\kiyot\AppData\Local\Temp\xc1fzi0t.zua\appsettings.Development.json
+C:\Users\kiyot\AppData\Local\Temp\xc1fzi0t.zua\appsettings.json
+C:\Users\kiyot\AppData\Local\Temp\xc1fzi0t.zua\SimpleBackend.dll
+C:\Users\kiyot\AppData\Local\Temp\xc1fzi0t.zua\SimpleBackend.deps.json
+C:\Users\kiyot\AppData\Local\Temp\xc1fzi0t.zua\SimpleBackend.runtimeconfig.json
+C:\Users\kiyot\AppData\Local\Temp\xc1fzi0t.zua\SimpleBackend.pdb
+C:\Users\kiyot\AppData\Local\Temp\xc1fzi0t.zua\Microsoft.OpenApi.dll
+C:\Users\kiyot\AppData\Local\Temp\xc1fzi0t.zua\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kiyot\AppData\Local\Temp\xc1fzi0t.zua\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kiyot\AppData\Local\Temp\xc1fzi0t.zua\Swashbuckle.AspNetCore.SwaggerUI.dll

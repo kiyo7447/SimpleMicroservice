@@ -1,0 +1,14 @@
+C:\Users\kiyot\AppData\Local\Temp\pk1qjnrf.zmm\SimpleFrontend.exe
+C:\Users\kiyot\AppData\Local\Temp\pk1qjnrf.zmm\appsettings.Development.json
+C:\Users\kiyot\AppData\Local\Temp\pk1qjnrf.zmm\appsettings.json
+C:\Users\kiyot\AppData\Local\Temp\pk1qjnrf.zmm\SimpleFrontend.dll
+C:\Users\kiyot\AppData\Local\Temp\pk1qjnrf.zmm\SimpleFrontend.deps.json
+C:\Users\kiyot\AppData\Local\Temp\pk1qjnrf.zmm\SimpleFrontend.runtimeconfig.json
+C:\Users\kiyot\AppData\Local\Temp\pk1qjnrf.zmm\SimpleFrontend.pdb
+C:\Users\kiyot\AppData\Local\Temp\pk1qjnrf.zmm\Dapr.AspNetCore.dll
+C:\Users\kiyot\AppData\Local\Temp\pk1qjnrf.zmm\Dapr.Client.dll
+C:\Users\kiyot\AppData\Local\Temp\pk1qjnrf.zmm\Google.Api.CommonProtos.dll
+C:\Users\kiyot\AppData\Local\Temp\pk1qjnrf.zmm\Google.Protobuf.dll
+C:\Users\kiyot\AppData\Local\Temp\pk1qjnrf.zmm\Grpc.Core.Api.dll
+C:\Users\kiyot\AppData\Local\Temp\pk1qjnrf.zmm\Grpc.Net.Client.dll
+C:\Users\kiyot\AppData\Local\Temp\pk1qjnrf.zmm\Grpc.Net.Common.dll
